@@ -25,7 +25,7 @@ post_date: 2019-06-08 03:44:41
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Dengan membeli bitcoin, kamu bisa membantu saya secara tidak langsung. </p>
+<p>Dengan membeli bitcoin melalui <em>referral link</em> di bawah, kamu bisa membantu saya secara cuma-cuma.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
