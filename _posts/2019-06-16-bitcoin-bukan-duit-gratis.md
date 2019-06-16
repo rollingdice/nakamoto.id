@@ -1,7 +1,7 @@
 ---
 ID: 41
 post_title: Faucet Bitcoin bukan duit gratis!
-author: admin
+author: Banitama Supartha
 post_excerpt: ""
 layout: post
 permalink: >
