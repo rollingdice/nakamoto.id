@@ -42,23 +42,9 @@ post_date: 2019-07-03 15:40:10
 <p>Selain pustaka online, juga terdapat beberapa buku dalam bahasa Inggris yang membahas tentang Bitcoin, khususnya dalam sudut pandang ekonomi Austrian.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/61h0HxBIIAL.jpg" alt="Image result for the internet of money"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/51RoPE3kD5L.jpg" alt="Image result for the bitcoin standard"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/What20Has20Government20Done_Rothbard_20140918_0.jpg" alt="Image result for what has government done to our money"/></figure>
-<!-- /wp:image -->
+<!-- wp:gallery {"ids":[57,58,56]} -->
+<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://nakamoto.id/wp-content/uploads/2019/07/61h0HxBIIAL-700x1050.jpg" alt="" data-id="57" data-link="https://nakamoto.id/pustaka/image-result-for-the-internet-of-money/" class="wp-image-57"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://nakamoto.id/wp-content/uploads/2019/07/51RoPE3kD5L.jpg" alt="" data-id="58" data-link="https://nakamoto.id/pustaka/image-result-for-the-bitcoin-standard/" class="wp-image-58"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://nakamoto.id/wp-content/uploads/2019/07/image.jpeg" alt="" data-id="56" data-link="https://nakamoto.id/pustaka/image/" class="wp-image-56"/></figure></li></ul>
+<!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
 <p>Semua buku dapat diunduh <a href="https://www.dropbox.com/sh/fsk0axywwl5iiae/AACeqkjcIV3MeaTkrUmrncO1a?dl=0">di sini.</a></p>
