@@ -42,6 +42,28 @@ post_date: 2019-07-03 15:40:10
 <p>Selain pustaka online, juga terdapat beberapa buku dalam bahasa Inggris yang membahas tentang Bitcoin, khususnya dalam sudut pandang ekonomi Austrian.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/61h0HxBIIAL.jpg" alt="Image result for the internet of money"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/51RoPE3kD5L.jpg" alt="Image result for the bitcoin standard"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://nakamoto.id/wp-content/uploads/2019/07/What20Has20Government20Done_Rothbard_20140918_0.jpg" alt="Image result for what has government done to our money"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Semua buku dapat diunduh <a href="https://www.dropbox.com/sh/fsk0axywwl5iiae/AACeqkjcIV3MeaTkrUmrncO1a?dl=0">di sini.</a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 <h2>Update</h2>
 <!-- /wp:heading -->
