@@ -19,3 +19,7 @@ post_date: 2019-06-12 01:14:13
 <!-- wp:paragraph -->
 <p>Nakamoto.ID memiliki visi jangka panjang untuk menyaring bisingnya dunia altcoin dan berbagi pencerahan tentang Bitcoin untuk masyarakat Indonesia.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yuk, <a href="https://t.me/joinchat/DR8lyBPqWnycv_N2655HdA">join grup Telegram kami</a> untuk mengobrol lebih jauh tentang Bitcoin!</p>
+<!-- /wp:paragraph -->
