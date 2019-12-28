@@ -1,14 +1,14 @@
 ---
 ID: 46
 post_title: Pustaka
-author: Banitama Supartha
+author: admin
 post_excerpt: ""
 layout: page
 permalink: https://nakamoto.id/pustaka/
 published: true
 post_date: 2019-07-03 15:40:10
 ---
-<!-- wp:heading -->
+[:id]<!-- wp:heading -->
 <h2>Bahasa Indonesia</h2>
 <!-- /wp:heading -->
 
@@ -56,4 +56,4 @@ post_date: 2019-07-03 15:40:10
 
 <!-- wp:paragraph -->
 <p>Halaman ini akan diupdate jika ada tambahan-tambahan menarik. Kamu juga bisa mengusulkan tambahan baru di kolom komentar.</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph -->[:]
