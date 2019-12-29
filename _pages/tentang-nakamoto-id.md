@@ -1,6 +1,6 @@
 ---
 ID: 31
-post_title: Tentang Nakamoto.ID
+post_title: About Nakamoto.ID
 author: admin
 post_excerpt: ""
 layout: page
@@ -8,7 +8,13 @@ permalink: https://nakamoto.id/tentang-nakamoto-id/
 published: true
 post_date: 2019-06-12 01:14:13
 ---
+[:en]<!-- wp:paragraph -->
+<p>Since the birth of Bitcoin, everyone realized that it is easy to issue your own money. Post an announcement on Bitcointalk, pay for some marketing, and BAM. The cost? Investors, no matter retail or institutional, got burned while a central party get away with their money.</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
+<p>I establish this site to share my view about Bitcoin and how it shifts my time, energy, and capital toward the advancement of the hardest money on earth. And I hope it will influence you in a good way, too.</p>
+<!-- /wp:paragraph -->[:id]<!-- wp:paragraph -->
 <p>Menurut CoinMarketCap, saat ini terdapat 2000 lebih altcoin dalam jagat cryptocurrency. Kebanyakan harganya telah jatuh relatif terhadap Bitcoin dan dollar. Tanpa <em>network effect</em> dan eksternalitas yang memadai, altcoin-altcoin tersebut hanya berujung menjadi sejarah ketamakan orang-orang dalam meraup Bitcoin.</p>
 <!-- /wp:paragraph -->
 
@@ -22,4 +28,4 @@ post_date: 2019-06-12 01:14:13
 
 <!-- wp:paragraph -->
 <p>Yuk, <a href="https://t.me/joinchat/DR8lyBPqWnycv_N2655HdA">join grup Telegram kami</a> untuk mengobrol lebih jauh tentang Bitcoin!</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph -->[:]
