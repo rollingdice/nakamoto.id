@@ -4,7 +4,8 @@ post_title: About Nakamoto.ID
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://nakamoto.id/tentang-nakamoto-id/
+permalink: >
+  https://nakamoto.id/en/tentang-nakamoto-id/
 published: true
 post_date: 2019-06-12 01:14:13
 ---
