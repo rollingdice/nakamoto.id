@@ -9,7 +9,7 @@ published: true
 post_date: 2019-06-08 03:44:41
 ---
 [:en]<!-- wp:paragraph -->
-<p>I'm sure you have heard of Coinbase, Kraken, et cetera. Those are good options if you don't care about your financial history. But what if you are?</p>
+<p>I'm sure you have heard of Coinbase, Kraken, et cetera. Those exchange need your ID </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
