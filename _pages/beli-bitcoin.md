@@ -1,14 +1,20 @@
 ---
 ID: 6
-post_title: Beli Bitcoin
+post_title: Buy Bitcoin (anonymously)
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://nakamoto.id/beli-bitcoin/
+permalink: https://nakamoto.id/en/beli-bitcoin/
 published: true
 post_date: 2019-06-08 03:44:41
 ---
-<!-- wp:heading -->
+[:en]<!-- wp:paragraph -->
+<p>I'm sure you have heard of Coinbase, Kraken, et cetera. Those are good options if you don't care about your financial history. But what if you are?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->[:id]<!-- wp:heading -->
 <h2>Halo!</h2>
 <!-- /wp:heading -->
 
@@ -42,4 +48,4 @@ post_date: 2019-06-08 03:44:41
 
 <!-- wp:paragraph -->
 <p>Khusus untuk pembeli di Localbitcoins, setiap customer bebas bertanya tentang bitcoin.</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph -->[:]
