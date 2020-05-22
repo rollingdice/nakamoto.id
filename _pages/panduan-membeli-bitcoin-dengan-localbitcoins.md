@@ -12,6 +12,10 @@ published: true
 post_date: 2020-05-22 16:53:13
 ---
 <!-- wp:paragraph -->
+<p><em><a href="https://localbitcoins.com/ad/1043072/purchase-bitcoin-bank-bank-transfer-go-pay-ovo-dana-indonesia">Kamu dapat membeli Bitcoin di sini.</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Mirip seperti Tokopedia atau Bukalapak, <strong>LocalBitcoins </strong>adalah sebuah marketplace tempat membeli bitcoin dengan orang yang mempunyai bitcoin secara langsung. Karena berhadapan dengan vendor bitcoin secara langsung, kamu juga dapat bertanya tentang bitcoin sambil bertransaksi.</p>
 <!-- /wp:paragraph -->
 
