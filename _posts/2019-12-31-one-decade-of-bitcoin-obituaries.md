@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nakamoto.id/blog/2019/12/31/one-decade-of-bitcoin-obituaries/
+  https://nakamoto.id/en/blog/2019/12/31/one-decade-of-bitcoin-obituaries/
 published: true
 post_date: 2019-12-31 16:10:37
 ---
