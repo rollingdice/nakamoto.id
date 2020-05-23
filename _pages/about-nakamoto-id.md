@@ -1,11 +1,10 @@
 ---
-ID: 110
+ID: 18
 post_title: About nakamoto.id
 author: admin
 post_excerpt: ""
 layout: page
-permalink: >
-  https://nakamoto.id/en/about-nakamoto-id-2/
+permalink: https://nakamoto.id/about-nakamoto-id/
 published: true
 post_date: 2019-12-31 04:49:00
 ---

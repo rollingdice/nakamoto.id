@@ -1,11 +1,11 @@
 ---
-ID: 140
+ID: 38
 post_title: 'Buat Lightning Node Sendiri: Part 1'
 author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nakamoto.id/2020/05/17/buat-lightning-node-sendiri-part-1/
+  https://nakamoto.id/blog/2020/05/17/buat-lightning-node-sendiri-part-1/
 published: true
 post_date: 2020-05-17 14:40:47
 ---

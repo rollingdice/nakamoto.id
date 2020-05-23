@@ -4,9 +4,8 @@ post_title: Tentang Nakamoto.ID
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://nakamoto.id/tentang-nakamoto-id/
-published: true_or_false
-post_date: 2019-06-12 01:14:13
+permalink: https://nakamoto.id/?page_id=31
+published: false
 ---
 <!-- wp:paragraph -->
 <p>Menurut CoinMarketCap, saat ini terdapat 2000 lebih altcoin dalam jagat cryptocurrency. Kebanyakan harganya telah jatuh relatif terhadap Bitcoin dan dollar. Tanpa <em>network effect</em> dan eksternalitas yang memadai, altcoin-altcoin tersebut hanya berujung menjadi sejarah ketamakan orang-orang dalam meraup Bitcoin.</p>

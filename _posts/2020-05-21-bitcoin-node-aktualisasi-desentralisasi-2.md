@@ -1,11 +1,11 @@
 ---
-ID: 144
+ID: 40
 post_title: 'Bitcoin Node: Aktualisasi Desentralisasi'
 author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nakamoto.id/2020/05/21/bitcoin-node-aktualisasi-desentralisasi/
+  https://nakamoto.id/blog/2020/05/21/bitcoin-node-aktualisasi-desentralisasi-2/
 published: true
 post_date: 2020-05-21 03:11:26
 ---

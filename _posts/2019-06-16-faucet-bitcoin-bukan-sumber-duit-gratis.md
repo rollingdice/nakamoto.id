@@ -1,11 +1,11 @@
 ---
-ID: 41
+ID: 34
 post_title: Faucet Bitcoin bukan sumber duit gratis!
-author: Banitama Supartha
+author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nakamoto.id/2019/06/16/bitcoin-bukan-duit-gratis/
+  https://nakamoto.id/blog/2019/06/16/faucet-bitcoin-bukan-sumber-duit-gratis/
 published: true
 post_date: 2019-06-16 12:21:36
 ---

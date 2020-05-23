@@ -1,10 +1,10 @@
 ---
-ID: 104
+ID: 27
 post_title: Resources
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://nakamoto.id/en/resources/
+permalink: https://nakamoto.id/resources/
 published: true
 post_date: 2019-12-31 04:36:37
 ---
