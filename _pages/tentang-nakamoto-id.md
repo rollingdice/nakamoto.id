@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: https://nakamoto.id/tentang-nakamoto-id/
-published: true
+published: true_or_false
 post_date: 2019-06-12 01:14:13
 ---
 <!-- wp:paragraph -->
