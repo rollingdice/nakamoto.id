@@ -18,8 +18,8 @@ post_date: 2020-05-23 17:46:48
 
 <!-- wp:columns {"className":"has-2-columns"} -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":48,"width":261,"height":379} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://nakamoto.id/wp-content/uploads/2019/07/Screen-Shot-2016-07-08-at-4.10.31-PM.png" alt="" class="wp-image-48" width="261" height="379"/><figcaption> <a href="https://play.google.com/store/books/details?id=1_72CwAAQBAJ">Mengenal Bitcoin dan Cryptocurrency</a><em>, dikhususkan untuk orang awam.</em> </figcaption></figure></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":48,"width":274,"height":397} -->
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://nakamoto.id/wp-content/uploads/2019/07/Screen-Shot-2016-07-08-at-4.10.31-PM.png" alt="" class="wp-image-48" width="274" height="397"/><figcaption> <a href="https://play.google.com/store/books/details?id=1_72CwAAQBAJ">Mengenal Bitcoin dan Cryptocurrency</a><em>, dikhususkan untuk orang awam.</em> </figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
