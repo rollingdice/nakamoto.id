@@ -18,14 +18,14 @@ post_date: 2020-05-23 17:46:48
 
 <!-- wp:columns {"className":"has-2-columns"} -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":48} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://nakamoto.id/wp-content/uploads/2019/07/Screen-Shot-2016-07-08-at-4.10.31-PM.png" alt="" class="wp-image-48"/><figcaption> <a href="https://play.google.com/store/books/details?id=1_72CwAAQBAJ">Mengenal Bitcoin dan Cryptocurrency</a><em>, dikhususkan untuk orang awam.</em> </figcaption></figure></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":48,"width":261,"height":379} -->
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://nakamoto.id/wp-content/uploads/2019/07/Screen-Shot-2016-07-08-at-4.10.31-PM.png" alt="" class="wp-image-48" width="261" height="379"/><figcaption> <a href="https://play.google.com/store/books/details?id=1_72CwAAQBAJ">Mengenal Bitcoin dan Cryptocurrency</a><em>, dikhususkan untuk orang awam.</em> </figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":47,"width":261,"height":397} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://nakamoto.id/wp-content/uploads/2019/07/EEFgDQAAQBAJ.jpg" alt="" class="wp-image-47" width="261" height="397"/><figcaption> <a href="https://play.google.com/store/books/details/Dimaz_Ankaa_Wijaya_Bitcoin_Tingkat_Lanjut?id=EEFgDQAAQBAJ">Bitcoin Tingkat Lanjut</a><em>, bersifat lebih teknis. Cocok untuk yang berkecimpung di dunia IT.</em> </figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://nakamoto.id/wp-content/uploads/2019/07/EEFgDQAAQBAJ.jpg" alt="" class="wp-image-47" width="261" height="397"/><figcaption><a href="https://play.google.com/store/books/details/Dimaz_Ankaa_Wijaya_Bitcoin_Tingkat_Lanjut?id=EEFgDQAAQBAJ">Bitcoin Tingkat Lanjut</a><em>, bersifat lebih teknis. Cocok untuk yang berkecimpung di dunia IT.</em> </figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
