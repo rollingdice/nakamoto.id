@@ -300,11 +300,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","textColor":"nv-text-dark-bg"} -->
-<h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color">Let’s work together on your <br>next web project</h2>
+<h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color">Let’s plan your wealth together.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus <br>nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<p class="has-text-align-center has-medium-font-size">Help us know how to help you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
