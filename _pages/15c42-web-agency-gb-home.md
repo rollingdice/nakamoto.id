@@ -22,9 +22,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
-<!-- /wp:button --></div>
+<div class="wp-block-buttons aligncenter"></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":80} -->
@@ -127,9 +125,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
-<!-- /wp:button --></div>
+<div class="wp-block-buttons alignleft"></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -157,9 +153,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
-<!-- /wp:button --></div>
+<div class="wp-block-buttons alignleft"></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":40} -->
@@ -207,9 +201,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
-<!-- /wp:button --></div>
+<div class="wp-block-buttons alignleft"></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
