@@ -22,12 +22,8 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"className":"is-style-primary"} -->
-<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="https://demosites.io/web-agency-gb/web-agency-gb-about-us/">LEARN MORE</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"className":"is-style-secondary"} -->
-<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link" href="https://demosites.io/web-agency-gb/web-agency-gb-contact-us/">HIRE US</a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -112,8 +108,8 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":37,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-10.jpg" alt="" class="wp-image-37"/></figure>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":241,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2021/01/consulting-service-1024x683.jpg" alt="" class="wp-image-241"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -123,11 +119,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"left","textColor":"neve-text-color"} -->
-<h2 class="has-text-align-left has-neve-text-color-color has-text-color">Web Design</h2>
+<h2 class="has-text-align-left has-neve-text-color-color has-text-color">Onboarding Service</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","style":{"typography":{"fontSize":17}}} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Buy bitcoin through us and enjoy private tutorial on securing your wealth.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
@@ -153,11 +149,11 @@ post_date: 2020-01-13 11:17:52
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"textAlign":"left","textColor":"neve-text-color"} -->
-<h2 class="has-text-align-left has-neve-text-color-color has-text-color">Branding</h2>
+<h2 class="has-text-align-left has-neve-text-color-color has-text-color">Access Control</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","style":{"typography":{"fontSize":17}}} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Similar to joint account, you can set up a shared account that enables multiple party to create and authorize transaction.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
@@ -172,8 +168,8 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":40,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></figure>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":243,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2021/01/scott-graham-OQMZwNd3ThU-unsplash-1024x683.jpg" alt="" class="wp-image-243"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -192,8 +188,8 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":35,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-08.jpg" alt="" class="wp-image-35"/></figure>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":242,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2021/01/chris-montgomery-smgTvepind4-unsplash-1024x768.jpg" alt="" class="wp-image-242"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -203,11 +199,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"left","textColor":"nv-text-dark-bg"} -->
-<h2 class="has-text-align-left has-nv-text-dark-bg-color has-text-color">We are driven by values</h2>
+<h2 class="has-text-align-left has-nv-text-dark-bg-color has-text-color">Remote Consultation</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"nv-text-dark-bg","style":{"typography":{"fontSize":17}}} -->
-<p class="has-text-align-left has-nv-text-dark-bg-color has-text-color" style="font-size:17px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<p class="has-text-align-left has-nv-text-dark-bg-color has-text-color" style="font-size:17px">Some of us are working from home. We understand that. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
@@ -220,53 +216,11 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:spacer {"height":40} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:spacer {"height":40} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:cover {"overlayColor":"nv-site-bg","minHeight":600,"align":"full"} -->
-<div class="wp-block-cover alignfull has-nv-site-bg-background-color has-background-dim" style="min-height:600px"><div class="wp-block-cover__inner-container"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:spacer {"height":80} -->
-<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textColor":"neve-text-color"} -->
-<h2 class="has-neve-text-color-color has-text-color">Featured Work</h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":20} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":39,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-12.jpg" alt="" class="wp-image-39"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":40} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":40,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":40} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":40} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
@@ -277,16 +231,16 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"ticss-4ce656f1"} -->
-<div class="wp-block-column ticss-4ce656f1"><!-- wp:image {"id":215,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-03.1.jpg" alt="" class="wp-image-215" width="80" height="80"/></figure>
+<div class="wp-block-column ticss-4ce656f1"><!-- wp:image {"id":244,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/woman.png" alt="" class="wp-image-244"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">“What is the point of being alive if you don’t at least try to do something remarkable?”</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">"Truly lightning fast. After they confirmed my bank transfer, the bitcoin arrived in seconds!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"neve-text-color"} -->
-<p class="has-neve-text-color-color has-text-color">JANET MORRIS</p>
+<p class="has-neve-text-color-color has-text-color">Awanama, Jakarta, ID</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -295,16 +249,16 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"ticss-f6fc7494"} -->
-<div class="wp-block-column ticss-f6fc7494"><!-- wp:image {"id":216,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-04.1.jpg" alt="" class="wp-image-216" width="80" height="80"/></figure>
+<div class="wp-block-column ticss-f6fc7494"><!-- wp:image {"id":245,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man.png" alt="" class="wp-image-245"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">“What is the point of being alive if you don’t at least try to do something remarkable?”</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">“Thanks for the transaction. Greetings from far east.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"neve-text-color"} -->
-<p class="has-neve-text-color-color has-text-color">WILLIE BROWN</p>
+<p class="has-neve-text-color-color has-text-color">Awanama, West Papua, ID</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -313,16 +267,16 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"ticss-a5b4df29"} -->
-<div class="wp-block-column ticss-a5b4df29"><!-- wp:image {"id":214,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-02.1.jpg" alt="" class="wp-image-214" width="80" height="80"/></figure>
+<div class="wp-block-column ticss-a5b4df29"><!-- wp:image {"id":246,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man-1.png" alt="" class="wp-image-246"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">“What is the point of being alive if you don’t at least try to do something remarkable?”</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color has-normal-font-size">“<em>Snabbt och smidigt!</em>”<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"neve-text-color"} -->
-<p class="has-neve-text-color-color has-text-color">SEAN FISHER</p>
+<p class="has-neve-text-color-color has-text-color">Anon, Göteborg, SE</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
