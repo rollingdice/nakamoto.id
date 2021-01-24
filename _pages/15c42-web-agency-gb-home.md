@@ -4,22 +4,21 @@ post_title: Home
 author: admin
 post_excerpt: ""
 layout: page
-permalink: >
-  https://nakamoto.id/15c42-web-agency-gb-home/
+permalink: https://nakamoto.id/
 published: true
 post_date: 2020-01-13 11:17:52
 ---
-<!-- wp:cover {"url":"https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/07/web-design-studio-01.jpg.jpg","id":109,"dimRatio":0,"focalPoint":{"x":"0.50","y":"0.64"},"minHeight":700,"align":"full"} -->
-<div class="wp-block-cover alignfull" style="background-image:url(https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/07/web-design-studio-01.jpg.jpg);background-position:50% 64%;min-height:700px"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":80} -->
+<!-- wp:cover {"url":"https://nakamoto.id/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg","id":109,"dimRatio":0,"focalPoint":{"x":"0.50","y":"0.64"},"minHeight":700,"align":"full"} -->
+<div class="wp-block-cover alignfull" style="background-image:url(https://nakamoto.id/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg);min-height:700px;background-position:50% 64%"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":80} -->
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center","level":1,"style":{"color":{"text":"#121212"}}} -->
-<h1 class="has-text-align-center has-text-color" style="color:#121212">Create and grow your <br>unique website today</h1>
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"color":{"text":"#121212"}}} -->
+<h1 class="has-text-align-center has-text-color" style="color:#121212">Monetary freedom.</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":17},"color":{"text":"#121212"}}} -->
-<p class="has-text-align-center has-text-color" style="font-size:17px;color:#121212">Programmatically work but low hanging fruit so new economy cross-pollination. Quick sync new <br>economy onward and upward.</p>
+<p class="has-text-align-center has-text-color" style="color:#121212;font-size:17px">Your wealth is now truly yours.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
@@ -52,11 +51,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"className":"has-text-align-center","textColor":"neve-text-color"} -->
-<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Fixed Price Projects</h3>
+<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Savings that saves.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed eiusmod tempor.</p>
+<p class="has-text-align-center">Preserve your hard work for future use.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -70,11 +69,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"className":"has-text-align-center","textColor":"neve-text-color"} -->
-<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Receive on time</h3>
+<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Hardest money. Ever.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed eiusmod tempor.</p>
+<p class="has-text-align-center">Absolutely scarce digital asset in your hand. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -88,11 +87,11 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"className":"has-text-align-center","textColor":"neve-text-color"} -->
-<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Fast work turnaround</h3>
+<h3 class="has-text-align-center has-neve-text-color-color has-text-color">Lightning fast.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed eiusmod tempor.</p>
+<p class="has-text-align-center">Anywhere. Anytime. Instantly.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -112,18 +111,18 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":50} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":37,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/01/neve-web-design-bg-10.jpg" alt="" class="wp-image-37"/></figure>
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-10.jpg" alt="" class="wp-image-37"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":50} -->
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:spacer {"height":20} -->
 <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"left","textColor":"neve-text-color"} -->
+<!-- wp:heading {"textAlign":"left","textColor":"neve-text-color"} -->
 <h2 class="has-text-align-left has-neve-text-color-color has-text-color">Web Design</h2>
 <!-- /wp:heading -->
 
@@ -152,8 +151,8 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":50} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"align":"left","textColor":"neve-text-color"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"textAlign":"left","textColor":"neve-text-color"} -->
 <h2 class="has-text-align-left has-neve-text-color-color has-text-color">Branding</h2>
 <!-- /wp:heading -->
 
@@ -172,9 +171,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":50} -->
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":40,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></figure>
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -192,18 +191,18 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":50} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":35,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/01/neve-web-design-bg-08.jpg" alt="" class="wp-image-35"/></figure>
+<figure class="wp-block-image size-large"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-08.jpg" alt="" class="wp-image-35"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":50} -->
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:spacer {"height":40} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"left","textColor":"nv-text-dark-bg"} -->
+<!-- wp:heading {"textAlign":"left","textColor":"nv-text-dark-bg"} -->
 <h2 class="has-text-align-left has-nv-text-dark-bg-color has-text-color">We are driven by values</h2>
 <!-- /wp:heading -->
 
@@ -244,9 +243,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":50} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":39,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/01/neve-web-design-bg-12.jpg" alt="" class="wp-image-39"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-12.jpg" alt="" class="wp-image-39"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":40} -->
@@ -254,9 +253,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":50} -->
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":40,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://demosites.io/web-agency-gb/web-agency-gb-portfolio-single/"><img src="https://nakamoto.id/wp-content/uploads/2020/01/neve-web-design-bg-13.jpg" alt="" class="wp-image-40"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":40} -->
@@ -279,7 +278,7 @@ post_date: 2020-01-13 11:17:52
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"ticss-4ce656f1"} -->
 <div class="wp-block-column ticss-4ce656f1"><!-- wp:image {"id":215,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/12/neve-web-design-studio-03.1.jpg" alt="" class="wp-image-215" width="80" height="80"/></figure>
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-03.1.jpg" alt="" class="wp-image-215" width="80" height="80"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -297,7 +296,7 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:column {"className":"ticss-f6fc7494"} -->
 <div class="wp-block-column ticss-f6fc7494"><!-- wp:image {"id":216,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/12/neve-web-design-studio-04.1.jpg" alt="" class="wp-image-216" width="80" height="80"/></figure>
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-04.1.jpg" alt="" class="wp-image-216" width="80" height="80"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -315,7 +314,7 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:column {"className":"ticss-a5b4df29"} -->
 <div class="wp-block-column ticss-a5b4df29"><!-- wp:image {"id":214,"width":80,"height":80,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://s33834.pcdn.co/web-agency-gb/wp-content/uploads/sites/422/2020/12/neve-web-design-studio-02.1.jpg" alt="" class="wp-image-214" width="80" height="80"/></figure>
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2020/12/neve-web-design-studio-02.1.jpg" alt="" class="wp-image-214" width="80" height="80"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -342,7 +341,7 @@ post_date: 2020-01-13 11:17:52
 <div style="height:140px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center","textColor":"nv-text-dark-bg"} -->
+<!-- wp:heading {"textAlign":"center","textColor":"nv-text-dark-bg"} -->
 <h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color">Let’s work together on your <br>next web project</h2>
 <!-- /wp:heading -->
 
