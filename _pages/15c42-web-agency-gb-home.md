@@ -69,7 +69,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Absolutely scarce digital asset in your hand. </p>
+<p class="has-text-align-center">Powered by the Bitcoin Network. <br>Absolutely scarce asset in your hand. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -87,7 +87,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Anywhere. Anytime. Instantly.</p>
+<p class="has-text-align-center">Powered by Lightning Network.<br>Anywhere. Anytime. Instantly.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":20} -->
@@ -225,9 +225,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"nv-light-bg","minHeight":420,"align":"full"} -->
-<div class="wp-block-cover alignfull has-nv-light-bg-background-color has-background-dim" style="min-height:420px"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":80} -->
-<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<div class="wp-block-cover alignfull has-nv-light-bg-background-color has-background-dim" style="min-height:420px"><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"left"} -->
+<h2 class="has-text-align-left">Be our next satisfied customers.</h2>
+<!-- /wp:heading -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"ticss-4ce656f1"} -->
@@ -287,7 +287,11 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:spacer {"height":30} -->
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"nv-dark-bg","minHeight":300,"align":"full"} -->
