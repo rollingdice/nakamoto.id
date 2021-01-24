@@ -203,7 +203,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"nv-text-dark-bg","style":{"typography":{"fontSize":17}}} -->
-<p class="has-text-align-left has-nv-text-dark-bg-color has-text-color" style="font-size:17px">Some of us are working from home. We understand that. </p>
+<p class="has-text-align-left has-nv-text-dark-bg-color has-text-color" style="font-size:17px">Some of us are working from home. We understand that. The positive side of all of this is you can </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
@@ -304,7 +304,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Help us know how to help you.</p>
+<p class="has-text-align-center has-medium-font-size">In the world of abundance, scarcity is prized.<br>Help us know how to help you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
