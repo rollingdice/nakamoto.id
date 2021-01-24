@@ -22,7 +22,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":80} -->
@@ -125,7 +127,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -153,7 +157,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":40} -->
@@ -201,7 +207,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -231,8 +239,8 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"ticss-4ce656f1"} -->
-<div class="wp-block-column ticss-4ce656f1"><!-- wp:image {"id":244,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/woman.png" alt="" class="wp-image-244"/></figure>
+<div class="wp-block-column ticss-4ce656f1"><!-- wp:image {"id":244,"width":128,"height":128,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/woman.png" alt="" class="wp-image-244" width="128" height="128"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -249,8 +257,8 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"ticss-f6fc7494"} -->
-<div class="wp-block-column ticss-f6fc7494"><!-- wp:image {"id":245,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man.png" alt="" class="wp-image-245"/></figure>
+<div class="wp-block-column ticss-f6fc7494"><!-- wp:image {"id":245,"width":129,"height":129,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man.png" alt="" class="wp-image-245" width="129" height="129"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -267,8 +275,8 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"ticss-a5b4df29"} -->
-<div class="wp-block-column ticss-a5b4df29"><!-- wp:image {"id":246,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man-1.png" alt="" class="wp-image-246"/></figure>
+<div class="wp-block-column ticss-a5b4df29"><!-- wp:image {"id":246,"width":127,"height":127,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://nakamoto.id/wp-content/uploads/2021/01/man-1.png" alt="" class="wp-image-246" width="127" height="127"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","fontSize":"normal"} -->
@@ -308,7 +316,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":140} -->
