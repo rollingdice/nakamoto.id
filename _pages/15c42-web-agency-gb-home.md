@@ -221,8 +221,8 @@ post_date: 2020-01-13 11:17:52
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"left"} -->
-<h2 class="has-text-align-left">Be our next satisfied customers.</h2>
+<!-- wp:heading {"textAlign":"left","className":"has-neve-text-color-color has-text-color"} -->
+<h2 class="has-text-align-left has-neve-text-color-color has-text-color">Be our next satisfied customers.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer -->
