@@ -217,9 +217,17 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"nv-light-bg","minHeight":420,"align":"full"} -->
-<div class="wp-block-cover alignfull has-nv-light-bg-background-color has-background-dim" style="min-height:420px"><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"left"} -->
+<div class="wp-block-cover alignfull has-nv-light-bg-background-color has-background-dim" style="min-height:420px"><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"left"} -->
 <h2 class="has-text-align-left">Be our next satisfied customers.</h2>
 <!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"ticss-4ce656f1"} -->
