@@ -23,7 +23,7 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"className":"is-style-primary"} -->
-<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" rel="#contactus">ASK US HOW</a></div>
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" rel="#contact-us">ASK US HOW</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
