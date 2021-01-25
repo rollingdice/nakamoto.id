@@ -22,7 +22,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"className":"is-style-primary"} -->
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" rel="#contactus">ASK US HOW</a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":80} -->
@@ -125,7 +127,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -149,11 +153,13 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","textColor":"neve-text-color","style":{"typography":{"fontSize":17}}} -->
-<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Similar to joint account, you can set up a shared account that enables multiple party to create and authorize transaction.</p>
+<p class="has-text-align-left has-neve-text-color-color has-text-color" style="font-size:17px">Similar to a joint account, you can set up a shared account that enables multiple party to create and authorize transaction.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
 <!-- wp:spacer {"height":40} -->
@@ -201,7 +207,9 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"left"} -->
-<div class="wp-block-buttons alignleft"></div>
+<div class="wp-block-buttons alignleft"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -295,7 +303,7 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"nv-dark-bg","minHeight":300,"align":"full"} -->
-<div class="wp-block-cover alignfull has-nv-dark-bg-background-color has-background-dim" style="min-height:300px"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":140} -->
+<div class="wp-block-cover alignfull has-nv-dark-bg-background-color has-background-dim" style="min-height:300px" id="contactus"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":140} -->
 <div style="height:140px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -304,12 +312,16 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">In the world of abundance, scarcity is prized.<br>Help us know how to help you.</p>
+<p class="has-text-align-center has-medium-font-size">In the world of abundance, we prize scarcity.<br>Help us know how to help you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"background":"#0270a0"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background" style="background-color:#0270a0" rel="https://t.me/kl_ondike">CONTACT US ON TELEGRAM</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"nv-c-1"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-nv-c-1-background-color has-background" rel="http://wa.me/6285213551395">CONTACT US ON WHATSAPP</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
