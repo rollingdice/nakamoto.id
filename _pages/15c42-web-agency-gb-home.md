@@ -23,7 +23,7 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"className":"is-style-primary"} -->
-<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" rel="#contact-us">ASK US HOW</a></div>
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="#contact-us" rel="#contact-us">ASK US HOW</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -317,11 +317,11 @@ post_date: 2020-01-13 11:17:52
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"background":"#0270a0"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-background" style="background-color:#0270a0" rel="https://t.me/kl_ondike">CONTACT US ON TELEGRAM</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="https://t.me/kl_ondike" style="background-color:#0270a0">CONTACT US ON TELEGRAM</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"nv-c-1"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-nv-c-1-background-color has-background" rel="http://wa.me/6285213551395">CONTACT US ON WHATSAPP</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-nv-c-1-background-color has-background" href="http://wa.me/6285213551395" target="_blank" rel="http://wa.me/6285213551395 noopener">CONTACT US ON WHATSAPP</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
