@@ -303,12 +303,12 @@ post_date: 2020-01-13 11:17:52
 <!-- /wp:cover -->
 
 <!-- wp:cover {"overlayColor":"nv-dark-bg","minHeight":300,"align":"full"} -->
-<div class="wp-block-cover alignfull has-nv-dark-bg-background-color has-background-dim" style="min-height:300px" id="contactus"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":140} -->
+<div class="wp-block-cover alignfull has-nv-dark-bg-background-color has-background-dim" style="min-height:300px"><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":140} -->
 <div style="height:140px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","textColor":"nv-text-dark-bg"} -->
-<h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color">Let’s plan your wealth together.</h2>
+<h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color" id="contact-us">Let’s plan your wealth together.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
